@@ -1,0 +1,46 @@
+@media (min-width: 768px) {
+	.texto  {
+		font-size: 5rem; /* Tamanho para md e acima */
+	}
+}
+@media (min-width: 992px) {
+	.texto  {
+		font-size: 5em; /* Tamanho para lg e acima */
+	}
+  
+	.texto2 {
+		font-size: 3em;
+	}
+}
+
+
+
+#home {
+	background: #ffc107;
+	color: white;
+}
+
+
+#navegacao-topo{
+	width: 90%;
+}
+
+#navegacao-topo a:hover {
+	color: white;
+}
+
+#formulario_principal{
+	width: 90%;
+}
+
+.responsive-text {
+	font-size: 1.5rem; /* Tamanho padrão */
+}
+
+.caixa{
+	border-bottom: 1px solid grey;
+}
+
+.divisao{
+	width: 90%;
+}
